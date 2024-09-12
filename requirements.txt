@@ -1,2 +1,2 @@
-jupyter
+notebook
 sentence-transformers==2.7.0
