@@ -1,0 +1,1347 @@
+[
+    {
+        "Section": "Digital Driver Licence",
+        "Question": "How secure is a digital driver licence?\n",
+        "Answer": "The security of your private information is our top priority. Your digital driver licence will be secure in the app. It can only be seen by you and whoever you choose to share it with. To protect your privacy, you decide if you want to share all - or just some - of your licence data. You control the personal information you share with licence verifiers based on why you are using it. \nThere are 3 levels of info that you can share with your digital driver licence:\nFull licence: This view shows info about your right to drive. You can share this view when you need to show police things like licence status, classes, or restrictions.\nIdentity: This shows your basic ID info — name, address, and signature.\nProof of age: This view shows that you’re over 18. It won’t show your exact age or date of birth. \nIn addition, the app is protected by the security features of your phone, including biometrics such as thumb or face scan. When first logging in to the myVicRoads app, you'll also need to switch on two-step verification and set a unique pin code. These additional protections ensure that logging into your myVicRoads account is secure (even if your username and password are compromised). \n\nIf you lose your physical licence, you can still access your licence via your phone.\n\nWe have tested both apps using stringent security and penetration tests. We will keep testing the app after the digital licence has been released."
+    },
+    {
+        "Section": "Digital Driver Licence",
+        "Question": "I'm concerned about safety and privacy as someone who has experienced family violence. How can I protect my personal details?",
+        "Answer": "Customers impacted by family violence can contact us through our dedicated phone line or email:\nPhone: 1300 031 292 (business hours)\nEmail: assistance@roads.vic.gov.au\nYou can leave your contact number if the telephone line is unavailable or unattended. Our service also supports agencies acting on behalf of affected persons. \n"
+    },
+    {
+        "Section": "Digital Driver Licence",
+        "Question": "Can I still use my physical licence card if I don’t have a smartphone?",
+        "Answer": "Yes – all licence holders will continue to be issued with a physical card. The digital driver licence doesn’t replace your physical licence and is optional. If you don’t have a smartphone, you’ll still be able to use your physical licence. You will need to renew your licence as usual to ensure it remains current."
+    },
+    {
+        "Section": "Digital Driver Licence",
+        "Question": "Once downloaded, will I be able to use my digital licence immediately at all locations where I currently present my physical licence?",
+        "Answer": "In most locations, yes you will. But we ask for patience, because many establishments will still be in the process of including digital driver licence in their systems once the roll out is live. We encourage you to carry your physical licence to avoid potential issues."
+    },
+    {
+        "Section": "Digital Driver Licence",
+        "Question": "How does my digital licence get verified?",
+        "Answer": "Licence checkers can do a quick visual check of your digital licence but can scan the QR code with their device if they need further verification.\nThe QR code connects to your licence record. The QR code is refreshed every two minutes, so the code is always unique. You can pull down on the screen to refresh the code.Scanning the QR code will confirm if your licence is valid.\n"
+    },
+    {
+        "Section": "Digital Driver Licence",
+        "Question": "Do I need to hand over my phone when my licence is being checked?",
+        "Answer": "No. If someone needs to check your licence, you don’t need to hand them your phone.Just tilt your screen towards them to show the details on your screen, or the QR code for them to scan. In the myVicRoads app, you can enlarge the code by tapping on it if you need to or pull down to refresh the screen. Always ensure you maintain control of your device and only let the verifier view your details or scan the QR code."
+    },
+    {
+        "Section": "Digital Driver Licence",
+        "Question": "What if I need to share a copy of my licence?",
+        "Answer": "Right now, there’s no way for you to share a copy of your digital licence. Businesses shouldn’t hold onto copies of your details unless they really need to. Keeping copies of this information is a fraud risk. We don’t recommend that anyone shares screen shots of digital licences."
+    },
+    {
+        "Section": "Digital Driver Licence",
+        "Question": "How does the hologram work?",
+        "Answer": "The hologram on a digital licence is similar to the one on a physical card. If you tilt your phone side to side, you’ll see the image move and shimmer."
+    },
+    {
+        "Section": "Digital Driver Licence",
+        "Question": "What if an error shows when someone scans my licence?",
+        "Answer": "For now, digital licences need internet access to work. An error will appear if you or the person checking your licence has trouble connecting to the internet. If this happens, use your physical licence card for scanning instead. An error might also appear if your licence is expired, cancelled or suspended."
+    },
+    {
+        "Section": "Digital Driver Licence",
+        "Question": "What happens if my licence status changes from Full Licence to Probationary? Will I still have a digital driver licence?",
+        "Answer": "If you change from full licence status back down to a Probationary licence, you will lose access to your digital driver licence. This is because currently only full licence holders have access to the digital driver licence. You will be able to access to your digital licence when you regain full licence status "
+    },
+    {
+        "Section": "Digital Driver Licence",
+        "Question": "I have a digital driver licence but lost my physical licence card. Do I still need to get a replacement?",
+        "Answer": "Yes, the digital driver licence is an additional way to access your licence, it does not replace your physical licence. All Victorians are still required to have a physical licence so if you've lost your physical licence card, you will still need to order a replacement licence.\n \nWhen you replace your licence, the licence number stays the same but the additional security card number changes, which helps prevent previous licence information from being used fraudulently. Your card number is found on the back of your new card and is automatically updated in your digital driver licence."
+    },
+    {
+        "Section": "Digital Driver Licence",
+        "Question": "Is there a way to remove the digital licence from the myVicRoads app if I don’t want to use it?",
+        "Answer": "For Victorian full licence holders, the digital licence will automatically appears in the app, however you can choose to ‘opt out’ by toggling it off in app settings if you do not want it to appear."
+    },
+    {
+        "Section": "Digital Driver Licence",
+        "Question": "What happens if I'm somewhere with no internet connection or phone reception?",
+        "Answer": "We recommend you carry your physical licence, especially if you are concerned about your battery, network or internet coverage. The introduction of a digital driver licence doesn’t change the obligation of some drivers (eg heavy vehicle and drivers aged less than 26) to carry their physical licence with them at all times. See compulsory carriage requirements for more information."
+    },
+    {
+        "Section": "Digital Driver Licence",
+        "Question": "Will my digital licence update automatically?",
+        "Answer": "Your digital driver licence updates automatically in response to any changes on your licence record, such as new licence conditions or a change of address."
+    },
+    {
+        "Section": "Digital Driver Licence",
+        "Question": "How many people have successfully used the digital driver licence in Victoria?",
+        "Answer": "The digital driver licence is now available to all Victorian full licence drivers following a successful trial in Ballarat involving more than 15,000 full licence holders, checkers, and enforcement agencies."
+    },
+    {
+        "Section": "Digital Driver Licence",
+        "Question": "Why doesn't the app work for me?  ",
+        "Answer": "Check to see if your Operating System (OS) installed on your device needs any version updates and try again. If you’re still having trouble with using the myVicRoads app or logging in, go to How to use the myVicRoads app."
+    },
+    {
+        "Section": "Digital Driver Licence",
+        "Question": "What is a digital licence?",
+        "Answer": "A digital licence is a quick, easy, and secure way to provide your licence status, access licencing information to verify your identity, or prove you are over 18. Your digital driver licence can be accessed directly from the myVicRoads or Service Victoria app.\n\nYou can use your digital licence: \nto prove your right to drive.\nas proof you’re over 18 at licensed venues or\nanywhere you need to prove your identity (such as retailers or hotels)\nUsing a digital licence is optional as physical licences will continue to be issued for all Victorian drivers and can continue to be used for identification purposes. \n"
+    },
+    {
+        "Section": "Digital Driver Licence",
+        "Question": "How to get your digital licence?",
+        "Answer": "To get your digital driver licence, you’ll need a myVicRoads account\nDownload the myVicRoads app via Google Play or through the App store and log in with your myVicRoads account.\nReset your password from the login screen if you need (click ‘forgotten password’)\nFollow the prompts to activate two-step verification (if this isn’t already enabled)."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "What are the eligibility criteria for learner permit?",
+        "Answer": "To be eligible to apply for a learner permit you must:\nbe 16 years of age or older\nhave a residential address in Victoria\nbe medically fit to drive\nnot be disqualified from driving or getting a learner permit\nnot be currently subject to a Fines Victoria licence suspension\nnot have any outstanding relicensing requirements like a Licence Eligibility Order."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "What is a learner permit?",
+        "Answer": "When you get your learner permit, you can drive a car on the road with a supervising driver.\nTo get your learner permit, you need to pass the Learner Permit Test.\n"
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "How many hours of supervised driving experience must learner drivers under 21 complete before taking the drive test?",
+        "Answer": "Learner drivers under the age of 21 must complete a minimum of 120 hours of supervised driving experience, including at least 20 hours at night, before they can take the drive test. More information can be found on the 120 hours driving experience page on the Transport Victoria website."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "How can learner drivers track their progress and learn about safe driving behaviours?",
+        "Answer": "Learner drivers can track their progress and learn about safe driving behaviours through the myLearners app. More information and the app download link are available on the myLearners page."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "What are the restrictions for learner drivers?",
+        "Answer": "Learner drivers must follow specific road laws and rules when driving with a learner permit. For more details, visit the Restrictions for learner drivers page on the Transport Victoria website."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "Do learner drivers need to display L plates while driving?",
+        "Answer": "Yes, learner drivers must display L plates when driving a vehicle using a learner permit. Further information can be found on the Transport Victoria website."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "Where can learner drivers find helpful information while driving with L plates?",
+        "Answer": "Learner drivers can refer to learner handbooks, which are available in a range of languages, for helpful information. These handbooks can be downloaded from the Transport Victoria website."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": " How can I get my learner permit in Victoria?",
+        "Answer": "To get your learner permit in Victoria, you need to pass the Learner Permit Test. Once you have your learner permit, you can drive a car on the road with a supervising driver."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "What are the eligibility requirements to apply for a learner permit in Victoria?",
+        "Answer": "To be eligible for a learner permit, you must:\n\nBe 16 years of age or older\nHave a residential address in Victoria\nBe medically fit to drive\nNot be disqualified from driving or getting a learner permit\nNot be currently subject to a Fines Victoria licence suspension\nNot have any outstanding relicensing requirements, such as a Licence Eligibility Order."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "What is the Learner Permit Test Online?",
+        "Answer": "The Learner Permit Test Online is an interactive 4-6 hour course that teaches you about road rules in Victoria and how to develop safe driving skills. At the end of the course, you’ll take a test on what you have learned. Once you pass, you can apply for your learner permit. You can enrol in the course from the age of 15 years and 11 months, but you will only be issued a learner permit when you are 16 years or older."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "How can I take the Learner Permit Test if I don’t have access to a computer or need an interpreter?",
+        "Answer": "If you don’t have access to a computer or need an interpreter, you can take the Learner Permit Test in person at a VicRoads Customer Service Centre by making an appointment. You will need to study for the test using the Road to Solo Driving handbook, which is available on the Transport Victoria website."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "Do I need to take the Learner Permit Test if I am converting my overseas licence?",
+        "Answer": "If you are converting your overseas driver licence to a Victorian driver licence, you may need to take the Learner Permit Test. For more details, visit the Convert your overseas licence page."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "What are the requirements to enrol in the Learner Permit Test Online?",
+        "Answer": "To enrol, you must:\n\nBe at least 15 years and 11 months old\nBe a Victorian resident\nBe medically fit to drive\nNot be disqualified from getting a learner permit for more than 12 months from the date of enrolment."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "What do I need to bring to the VicRoads Customer Service Centre after passing the Learner Permit Test Online?",
+        "Answer": "After passing the course, you need to bring:\n\nYour unsigned learner permit application form\nOne 'Category A' evidence of identity document (e.g., Australian birth certificate or passport)\nOne 'Category B' evidence of identity document (e.g., Australian bank statement, student ID, or Medicare card)\nEvidence of your current address (if not shown on your Category A or B document)\nGlasses or contact lenses, if needed for the eyesight test\nOverseas driver licence or learner permit verification documents, if applicable."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "What steps must be completed after passing the Learner Permit Test Online to receive a learner permit?",
+        "Answer": "Once you pass the test and are 16 years or older, you must visit a VicRoads Customer Service Centre to apply for your learner permit, provide evidence of your identity, complete an eyesight test, and have your photo taken. You need to complete these steps before receiving your learner permit and starting your 120 hours of supervised driving."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "How can overseas licence holders complete the verification process after the Learner Permit Test Online?",
+        "Answer": "Overseas licence holders must visit a VicRoads Customer Service Centre after completing the Learner Permit Test Online to complete an overseas licence or learner permit verification, have their identity verified, and take an eyesight test. If you choose to take the Hazard Perception Test Online, you must book a separate overseas licence verification appointment before registering."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "What will I learn in the LPTO?",
+        "Answer": "The LPTO is a competency-based course focusing on road safety topics (Safe systems, Vehicles, Speed, Routes, Drink and drug driving, Seatbelts, Fatigue, Distractions) and road rule topics (Parking, Hazardous situations, Giving way, Road Signs, Road Markings, Licence Sanctions, Sharing the road with others)."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "I heard taking the test online is free, is this true? ",
+        "Answer": "Yes. Your first attempt to take the Learner Permit Test Online is free under the new Motorist Package and Safe Driver Program. If you’ve been unsuccessful completing the Learner Permit Test Online (LPTO) in the 12 months from enrolment, you’ll need to enrol again and pay the course fee of $27.10."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "I've already attempted to take the learner permit test at a VicRoads Customer Service Centre but I was unsuccessful, am I still eligible for the free attempt?",
+        "Answer": "When you take the Learner Permit Test Online your first attempt is free."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "How much will I save by taking the test online?",
+        "Answer": "If you’ve been unsuccessful passing the Learner Permit Test In-person, you’ll still be eligible for a first attempt free if you enrol into the Learner Permit Test Online."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "If I’ve recently enrolled into the Learner Permit Test Online and paid the course fee, can I get a refund?",
+        "Answer": "No. If you enrolled and paid to take the Learner Permit Test Online before the 15 August, you won’t be eligible to get a refund on the fees already paid."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "Are the in-person test and appointment fees also waived?",
+        "Answer": "No. Fees for the Learner Permit Test In-person remain in place."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "What if I booked to take the Learner Permit Test In-person but now I want to take the test online as it's free, can I cancel my appointment and get a refund?",
+        "Answer": "Your in-person booking is made up of two fee components – the test fee and the appointment fee.If you've made an appointment to take the Learner Permit Test In-person and would like to cancel this appointment to take the test online, you'll be eligible for a refund of the test fee only. You’ll need to provide us with at least 24 hours notice before cancelling your appointment.The appointment fee of $20.90 is non-refundable.  "
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "I’ve completed the Learner Permit Test Online, can I visit a VicRoads Customer Service Centre to get my permit? ",
+        "Answer": "Congratulations for passing the test! To complete the process for getting your learner permit, you’ll be need to visit a VicRoads Customer Service Centre. No prior booking or appointment is required. Don’t forget to download and print your unsigned learner application from your myVicRoads account.  "
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "How do I have my overseas licence or permit verified?",
+        "Answer": "If you complete the Learner Permit Test Online (LPTO) and you’re from a non-recognised country or you’re from a country where your driver experience is recognised and you’re under 25 years old and want to take the Hazard Perception Test Online, you’ll need to book an overseas licence verification appointment(External link) before you register.\n\nIf you complete one or both the Learner Permit Test In-person or The Hazard perception Test In-person at a VicRoads Customer Service Centre, your overseas licence verification will be completed at your first in-person visit."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "Do I need to study the Road to Solo Driving Handbook for the LPTO?",
+        "Answer": "No, you don’t need any prior knowledge before beginning the online course. Completing the course will teach you all you need to know about the road rules and safe driving behaviours to prepare you for the final assessment."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "Who can help me complete the course and assessment?",
+        "Answer": "Your supervising driver, parents, family, or friends can participate in your road safety learning experience and provide additional support for you to complete the course if you need. However, you must attempt the final assessment by yourself without the help of others."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "I was unsuccessful passing the test at a Customer Service Centre, can I still take the Learner Permit Test Online? ",
+        "Answer": "Yes, if you’ve been unsuccessful passing the test at a Customer Service Centre, you’ll still have the option to take the Learner Permit Test Online through your myVicRoads account."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "How will I know if I’ve passed? Will I find out straight away?",
+        "Answer": "When you complete the course and assessment online, you’ll get your results straight away. You'll see a notification on your myVicRoads dashboard when you've passed. You’ll also receive an email confirming that you've been successful passing the final assessment.\n\n"
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "How do I know when my access to the course expires?",
+        "Answer": "You can complete both the course and final assessment 12 months after you enrol. Your enrolment expiry date will be displayed on your myVicROads account dashboard once you enrol."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "How many attempts do I get to complete the course?",
+        "Answer": "There are no limits to the attempts you’ll get to complete the course. However, you’ll be given 12 months from when you enrol to complete both the course and assessment. "
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "Why do I have to pay an appointment fee for the test in-person but not when visiting a VicRoads Customer Service Centre if I complete the course online?",
+        "Answer": "Appointments for in-person tests are necessary to ensure computer and staff availability to complete your appointment. The appointment fee covers the costs associated with these resources."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "What payment methods are available to pay the course fee online? ",
+        "Answer": "The course fee can be paid online using either Mastercard or Visa. Please note, a card payment fee applies when using VISA or Mastercard."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "Is Road Rules Education Online the same as the Learner Permit Test Online? ",
+        "Answer": "No. Road Rules Education Online is our free, online course designed to help all Victorian drivers brush up on their road rules and safe driving knowledge. The course content is similar to modules in the Learner Permit Test Online however, progress of topics completed within the course is not recorded or saved by VicRoads. Road Rules Education Online has been designed for educational purposes and practice only. The course can be accessed online anytime through your myVicRoads account. \n\nPlease note: customers looking to get their learner permit will need to complete the Learner Permit Test Online or Learner Permit Test In-person."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "What if I have a medical condition or injury?",
+        "Answer": "If you have an illness, disability, medical condition, injury or are undertaking medical treatment that affects your ability to drive, you’ll need to get medical report(s) for our Medical Review team before you can get your learner permit.\n\nFor more information, visit medical conditions and driving or call us on 13 11 71."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "Can I take the Learner Permit Test Online if I’ve already got an appointment to take the test at a Customer Service Centre? Will I get a refund of fees?",
+        "Answer": "If you’re waiting to take the test at a Customer Service Centre, you can still enrol in the Learner Permit Test Online.\n\nIf you decide to enrol in the Learner Permit Test Online, you’ll need to pay the course fee again. Your existing test fee for your in-person test is refundable if you cancel with more than 24hrs notice, however the $19 appointment booking fee is not refundable. "
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "I’m required to complete the Learner Permit Test for re-licensing purposes. Can I do the online course? ",
+        "Answer": "Yes, as long as you meet the enrolment criteria, you can complete the course online. If you have any additional outstanding re-licensing requirements (i.e. alcohol interlock) those requirements must also be met before you can be issued with a driver licence. Your test results are valid for 12 months.\n\nWhen you enrol for the LPTO you'll be asked a series of questions to determine your eligibility. If you’re eligible, you’ll be granted access to the test. Note: If you're currently disqualified from driving or obtaining a licence in Victoria and the disqualification period is more than 12 months, you won't be eligible to complete the test. "
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "Who can take the Learner Permit Test In-person at a VicRoads Customer Service Centre?",
+        "Answer": "You can take the Learner Permit Test in person at a VicRoads Customer Service Centre if you:\n\nWant to complete the test in a language other than English\nRequire an interpreter\nDon’t have access to a computer or internet."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "What languages are available for the Learner Permit Test In-person?",
+        "Answer": "The Learner Permit Test In-person is available in the following languages: Albanian, Arabic, Cambodian, Chinese (Mandarin), Macedonian, Persian, Russian, Serbian, Sinhalese, Somali, Spanish, Turkish, and Vietnamese. If your language isn’t listed, you can book an interpreter at your nearest VicRoads Customer Service Centre."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "What are the steps to complete the Learner Permit Test In-person?",
+        "Answer": "The steps are:\n\nStep 1: Prepare and practice for the test using The Road to Solo Driving Handbook and take the practice test.\nStep 2: Book and pay for your appointment online, by calling 13 11 71, or visiting a VicRoads Customer Service Centre.\nStep 3: Attend your appointment to take the test, provide evidence of identity, complete an eyesight test, and have your photo taken.\nStep 4: Receive your learner permit, which will be mailed to your postal address in about 10 business days. A temporary learner permit will be provided until the card arrives."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "What should I bring to my appointment for the Learner Permit Test In-person?",
+        "Answer": "You need to bring:\n\nA filled but unsigned licence or learner permit application form\nOne 'Category A' evidence of identity document (e.g., passport or Australian birth certificate)\nOne 'Category B' evidence of identity document (e.g., student ID or Medicare card)\nEvidence of your current address (if not shown on your Category A or B document)\nGlasses or contact lenses if required for the eyesight test\nYour overseas driver licence and any required verification documents if you are converting an overseas licence."
+    },
+    {
+        "Section": "Learner permit",
+        "Question": "How can I change or cancel my appointment for the Learner Permit Test In-person?",
+        "Answer": "You can change or cancel your appointment by using the online booking tool, calling 13 11 71, or visiting a VicRoads Customer Service Centre. If you cancel with less than 24 hours' notice or fail to attend, you'll forfeit all fees paid. If you change your appointment, a transfer fee applies."
+    },
+    {
+        "Section": "Probationary driver licence",
+        "Question": "What are the requirements to apply for a probationary driver licence in Victoria?",
+        "Answer": "To apply for a probationary driver licence in Victoria, you must:\n\nBe at least 18 years old\nHave a current car learner permit\nHave a Victorian residential address\nHave the necessary identity documents\nNot be suspended, cancelled, disqualified, or refused from obtaining a probationary driver licence\nNot have a Fines Victoria licence sanction\nNot have any outstanding relicensing requirements\nHave passed all the required tests\nPay the appropriate fees.\nIf you are under 21 years old, you must also have completed and recorded at least 120 hours of supervised driving, including 20 hours at night, unless exempted."
+    },
+    {
+        "Section": "Probationary driver licence",
+        "Question": "What are the minimum learner permit periods required before getting a probationary licence?",
+        "Answer": "The minimum continuous learner permit periods are:\n\n12 months if you are under 21 years old\n6 months if you are 21 to under 25 years old\n3 months if you are 25 years or older."
+    },
+    {
+        "Section": "Probationary driver licence",
+        "Question": "What tests do I need to pass to get my probationary licence?",
+        "Answer": "To get your probationary licence, you must pass:\n\nAn eyesight test\nThe Hazard Perception Test (online or in-person) before your drive test appointment\nThe Drive Test.\nIf you have held a motorcycle licence within the last 5 years, you only need to pass the eyesight test and the Drive Test."
+    },
+    {
+        "Section": "Probationary driver licence",
+        "Question": "What should I bring to my drive test?",
+        "Answer": "For your drive test, you need to bring:\n\nYour learner permit card or original evidence of identity documents if the permit is lost\nProof of 120 hours of supervised driving in your myLearners app or logbook (if applicable)\nYour vehicle or your instructor’s vehicle to use for the drive test (VicRoads does not supply vehicles)\nPayment for your driver licence, as you’ll receive a receipt as proof of your probationary licence if you pass."
+    },
+    {
+        "Section": "Probationary driver licence",
+        "Question": "What happens if I need to change or cancel my drive test appointment?",
+        "Answer": "If you need to change your drive test appointment, you can do so online or by calling 13 11 71, as long as you provide at least 24 hours’ notice. If you don’t give 24 hours’ notice, you will lose your booking and the test fees paid. If you are more than 5 minutes late on the test day, you will need to re-book and pay a new fee."
+    },
+    {
+        "Section": "Probationary driver licence",
+        "Question": "How can I manage my licence and registration information as a P plater in Victoria?",
+        "Answer": "You can manage your licence and registration information online at any time through your myVicRoads account. If you don’t have an account, you can create one on the myVicRoads website."
+    },
+    {
+        "Section": "Probationary driver licence",
+        "Question": "What are the rules for displaying P plates in Victoria?",
+        "Answer": "As a probationary driver, you must display P plates whenever you drive. If you don’t clearly display your P plates, you could be fined or receive demerit points. For more details, visit the Transport Victoria website."
+    },
+    {
+        "Section": "Probationary driver licence",
+        "Question": "How can I transfer a vehicle's registration into my name?",
+        "Answer": "When you buy or are given a vehicle in Victoria, you need to transfer the vehicle's registration into your name within 14 days of the sale. You can do this through your myVicRoads account. More information is available on the \"What to do when you buy a vehicle\" page."
+    },
+    {
+        "Section": "Probationary driver licence",
+        "Question": "What is the Free Licence Scheme for P platers?",
+        "Answer": "If you maintain a good driving record while on your P plates, you may be eligible to apply for a free 3-year driver licence. For more information, visit the Transport Victoria website."
+    },
+    {
+        "Section": "Probationary driver licence",
+        "Question": "Are there any vehicles I am not allowed to drive while on my P plates?",
+        "Answer": "Yes, there are certain vehicles that you are prohibited from driving while on your P plates. You can find more information about prohibited vehicles on the Transport Victoria website."
+    },
+    {
+        "Section": "Hazard Perception Practice Test",
+        "Question": "What is the Hazard Perception Practice Test?",
+        "Answer": "The Hazard Perception Practice Test is an online test that allows you to practice responding to simulated video clips of different driving scenarios and common hazards that could appear in the suburbs, city, or on country roads. There are nine sample videos available, and you can practice as many times as you like for free."
+    },
+    {
+        "Section": "Hazard Perception Practice Test",
+        "Question": "What do I need to take the Hazard Perception Practice Test?",
+        "Answer": "For the best experience, you should use a desktop computer with a widescreen monitor, a computer mouse that clicks correctly, functioning volume, a quiet environment, and an up-to-date compatible browser. Mobile devices should not be used to take the practice test."
+    },
+    {
+        "Section": "Hazard Perception Practice Test",
+        "Question": "How do I use the Hazard Perception Practice Test?",
+        "Answer": "To use the practice test, click ‘Launch videos’ to open the video player in a separate window. Read the instructional text at the top of each video and click ‘Play’ to begin. For each scenario, you can choose to act by clicking the action button at the top right. After you’ve taken action or non-action, feedback will be displayed on-screen. Click ‘close’ to return to the main menu and ‘refresh’ to get a new list of videos."
+    },
+    {
+        "Section": "Hazard Perception Practice Test",
+        "Question": "Do I have to pay to take the practice test?",
+        "Answer": "No. The practice test on this page is free of charge."
+    },
+    {
+        "Section": "Hazard Perception Practice Test",
+        "Question": "How many times can I try the practice test?",
+        "Answer": "There are no limits to how many times you can attempt the Hazard Perception Practice Test."
+    },
+    {
+        "Section": "Hazard Perception Practice Test",
+        "Question": "Are the practice videos the same videos in the real Hazard Perception Test?",
+        "Answer": "Yes, the videos in the practice test are like the video clips you’ll see in the real Hazard Perception Test. "
+    },
+    {
+        "Section": "Hazard Perception Practice Test",
+        "Question": "Will the practice test give me feedback about what I did wrong? \n",
+        "Answer": "Once you’ve taken action by clicking or not clicking your mouse, the video will tell you on the screen if you’ve responded correctly or incorrectly. You should aim to get more driving practice for scenarios you've responded incorrectly to before trying again."
+    },
+    {
+        "Section": "Hazard Perception Practice Test",
+        "Question": "Will my results to the practice test be saved anywhere?",
+        "Answer": "No, your results to the practice test don’t get saved. The videos are available for you to practice as many times as you like."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "Why won’t the videos launch on my screen? ",
+        "Answer": "Before you start, make sure that your computer’s browser is up to date. You’ll need the latest version of Google Chrome, Mozilla Firefox or Microsoft Edge on your desktop to complete the test. Mobile devices should not be used to take the practice test. "
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "How do I get more practice before taking the test?",
+        "Answer": "You should get lots of supervised driving practice with your supervising driver or instructor in different conditions. You can also review your knowledge of the road rules and the stages of driving(External link) for ways to improve your hazard perception on the myLearners website(External link)"
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "Is the Hazard Perception Test the same as the Drive Test?",
+        "Answer": "No, the Drive Test focuses on your car handling skills and your ability to demonstrate safe driving on the road, whereas the Hazard Perception Test is computer based, and assesses how you would react to hazards such as other vehicles, pedestrians and cyclists. "
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "How long are Hazard Perception Test results valid for?",
+        "Answer": "Hazard Perception Test results are only valid for 12 months, which means you must successfully complete your Drive Test within 12 months of completing the Hazard Perception Test or be required to do it again."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "How long is the test?",
+        "Answer": "There are 25 driving scenarios presented in the test. You’ll be given a total of 45 minutes to complete the test. You must respond to all 25 driving scenarios within the 45 minutes, or your attempt will be automatically considered unsuccessful."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "Is there a practice test I can take?",
+        "Answer": "Yes. A practice test is available on our website, free of charge. Go to The Hazard Perception Practice Test webpage. "
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "What happens if I don’t pass the Drive Test within 12 months after passing the Hazard Perception Test? ",
+        "Answer": "If you haven’t passed the Drive Test within 12 months of passing the Hazard Perception Test, you’ll need to pass the Hazard Perception Test again"
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "What if I don’t pass the Hazard Perception Test but I’ve booked my Drive Test for the same day?",
+        "Answer": "If you’re unsuccessful in passing your Hazard Perception Test Online or In-person and have booked your Drive Test on the same day: \n\nyou won’t be able to take your Drive Test on that day\nyou’ll need to make a new appointment to take the Hazard Perception Test In-person or attempt the Hazard Perception Test Online and \nyou’ll need to pay an appointment transfer fee as the Drive Test appointment must be rescheduled for another day."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "Can I use a concession card?",
+        "Answer": "No, there are no concessions available for appointment, test or licence fees. "
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "Can I book my Hazard Perception Test and Drive Test on the same day?",
+        "Answer": "Yes, you can book your Hazard Perception Test In-person and Drive Test on the same day, however you’ll need to pay two appointment fees. "
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "Can I still take the Drive Test if I don’t pass the Hazard Perception Test on the same day?",
+        "Answer": "No, you won’t be allowed to take the Drive Test on the same day, if you don’t pass the Hazard Perception Test. If you don't pass the Hazard Perception Test you'll need to:\n\nmake a new appointment to take the Hazard Perception Test In-person or online again and\nreschedule your Drive Test."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "Can I present my 120 hours MyLearners or Logbook at my Hazard Perception Test In-person?",
+        "Answer": "Yes, we encourage you to present the 120 hours prior to your Drive Test."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "What if I need to change my appointment?",
+        "Answer": "An appointment can only be changed by the appointment holder once it’s been booked. If you need to change your appointment, you’ll need to pay an additional appointment fee. The Hazard Perception Test fee will get transferred to the new appointment (or you’ll get a refund if at least 24 hours notice is given.) Go to driver licence and learner permit fees page for more.\n\n"
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "What if I don’t give enough notice to change or cancel?",
+        "Answer": "If you don’t give us at least 24 hours notice, you’ll lose your appointment and test fees and won’t be able to get a refund."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "What if I’m running late to the appointment?",
+        "Answer": "If you’re more than five minutes late, you’ll need to re-book your appointment for the next available timeslot and pay another appointment fee."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "How many hours of supervised driving practice do I need before I can take the HPTO?",
+        "Answer": "All learner drivers under the age of 21 must complete 120 hours of driving practice to be eligible to book a Drive Test and should be close to getting their 120 hours of supervised driving experience (including at least 20 hours at night) before taking the HPTO. "
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "Is the HPTO the same as the Hazard Perception Test In-person?",
+        "Answer": "Yes. The HPTO is the same computer-based test taken in-person at a VicRoads Customer Service Centre. "
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "How much does it cost to take the Hazard Perception Test Online?",
+        "Answer": "From 15 August 2022, your first test attempt to take the Hazard Perception Test Online is free under the Motorist Package and Safe Driver Discount Program.\n\nYou’ll need to pay the test fee for every new test attempt. See Driver licence and permit fees for more information."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "I heard taking the test online is free, is this true? ",
+        "Answer": "Yes. From 15 August 2022, your first attempt to take the Hazard Perception Test Online is free under the new Motorist Package and Safe Driver Program."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "I've already attempted to take the Hazard Perception Test at a VicRoads Customer Service Centre but I was unsuccessful, am I still eligible for the free attempt?",
+        "Answer": "If you’ve been unsuccessful passing the Hazard Perception Test In-person, you’ll still be eligible for a first attempt free if you register to take the Hazard Perception Test Online."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "If I’ve recently enrolled into the Hazard Perception Test Online and paid the test fee, can I get a refund?",
+        "Answer": "No. If you registered and paid to take the Hazard Perception Test Online before the 15 August, you won’t be eligible to get a refund on the fees already paid."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "Are the in-person test and appointment fees also waived?",
+        "Answer": "No. Fees for the Hazard Perception Test In-person remain in place. See driver licence and learner permit fees."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "Is the fee to take the Drive Test also waived?",
+        "Answer": "No. Fees for the Dive Test remain in place. See driver licence and learner permit fees."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "What if I booked to take the Hazard Perception Test In-person but now I want to take the test online as it's free, can I cancel my appointment and get a refund?",
+        "Answer": "Your in-person booking is made up of two fee components – the test fee and the appointment fee. See driver licence and learner permit fees.\n\nIf you've made an appointment to take the Hazard Perception Test In-person and would like to cancel this appointment to take the test online, you'll be eligible for a refund of the test fee only. You’ll need to provide us with at least 24 hours notice before cancelling your appointment. The appointment fee of $19.60 is non-refundable. "
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "After I register for the test, how long will I get to complete it?",
+        "Answer": "You'll have access to the Hazard Perception Test Online(HPTO) for 12 months from the date you registered. If you don’t take the test within 12 months, you must re-register and pay a new test fee. \n\nYour first test attempt to take the Hazard Perception Test Online is free under the Motorist Package and Safe Driver Discount Program. A test fee applies for every new test attempt."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "What do I need to access the Hazard Perception Test Online(HPTO)?",
+        "Answer": "To take the test online, you’ll need a myVicRoads account, adequate internet connection, a credit card* to pay any subsequent test attempts and a computer or compatible device such as a desktop computer (a widescreen monitor is recommended). *A card payment fee applies when using VISA or Mastercard.\n\nTo get the best experience, check that you have the following set up:\n\nA desktop computer. A widescreen monitor is recommended for best experience\nA computer mouse. Before the test, check that it clicks correctly\nMake sure your volume works and is turned on\nMake sure you’re in a place that’s quiet for you to focus \nMake sure that your computer’s browser is up to date. You’ll need the latest version of Google Chrome, Mozilla Firefox or Microsoft Edge on your desktop to complete the test.\nPlease note: It is your responsibility to ensure you have the correct set up, working device and operating system before starting the test. Any errors which occur due to system, device or browser incompatibility or internet issues may interrupt your experience which could result in you having to retake the test and pay a new test fee.\n\nIf you’re unable to setup for the Hazard Perception Test Online correctly, you’ll need to book your Hazard Perception Test In-person. "
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "Why is it mandatory for Hazard Perception Test Online customers to have two-step verification activated?",
+        "Answer": "The Hazard Perception Test Online is a formal test. It's part of what certifies you as a safe and capable person to hold a Victorian diver licence.\n\nTwo-step verification makes it harder for someone to pretend they are you and to log into your account. As it is a test, it is essential that you are the person taking the test and two-step verification provides this authentication. Setting this up on your myVicRoads account is easy. See two-step verification to learn more."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "Can I use a mobile phone to take the test? ",
+        "Answer": "To see each video clearly, we recommend using a desktop computer with a wide screen monitor, iPad or tablet. Mobile phones are not recommended and may affect your ability to observe the whole road scene and react correctly.\n\nBefore attempting the actual test, you’ll need to complete a practice test. This will help you determine if the device you’re using is suitable. You’ll also be given an opportunity to switch the device you’re using, before taking the actual test."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "Does the Hazard Perception Test Online cost the same as taking the test in-person?",
+        "Answer": "Yes. The test fee is the same. From August 2022, your first test attempt to take the Hazard Perception Test Online is free under the Motorist Package and Safe Driver Discount Program.\n\nIf you choose to take the test in-person at a VicRoads Customer Service Centre, you’ll also need to pay an appointment fee."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "Does the Hazard Perception Test Online include a practice test?",
+        "Answer": "Yes. Before you take the test, you’ll be presented with three practice questions. You’ll get feedback after you respond to each scenario telling you if your attempt was successful or unsuccessful. You can attempt the practice test as many times as you need and should keep trying until you respond correctly to at least 2 out of 3 scenarios in the practice test. If you're unsuccessful in the practice test, you should aim to get more supervised driving experience before you try again."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "How many attempts do I get to pass the test online?",
+        "Answer": "For every new attempt, a test fee will apply. You’ll be permitted two attempts to pass the test in one day. However, after two unsuccessful attempts in one day, you’ll need to wait until the next day before you can try again."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "Do I need to respond to all 25 driving scenarios? ",
+        "Answer": "Yes. For each driving scenario, you’ll need to provide a response or ‘action’. This may be choosing to slow down, turn right, move off or take no action at all. Each scenario will need to be actioned with a response within the 45 minutes or your attempt will be automatically considered unsuccessful."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "Can I get help from someone when taking the test?",
+        "Answer": "No. The test should be attempted on your own. The Terms and Conditions you accepted when registering for the HPTO means you have legally agreed to complete the HPTO independently. Attempting to cheat means you may not have the skill to recognise and respond to hazards and be at greater risk of having an accident on the road. "
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "If I pass the test, will I find out straight away?",
+        "Answer": "Once you complete the test, feedback is displayed onscreen immediately advising you of your result. This may also include ‘coaching statements’ for incorrect responses, so you know which areas you may need improvement or more practice. Your result is also displayed on your myVicRoads account dashboard. VicRoads is notified of your results and a copy is sent to you via email."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "If I was unsuccessful taking the test in-person, can I register and take the test online? ",
+        "Answer": "Yes. If you’ve been unsuccessful taking the test at a VicRoads Customer Service Centre, you can register to take the test online."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "What if my permit or licence has been suspended, cancelled or disqualified?",
+        "Answer": "If your permit has been suspended, cancelled or disqualified, you’ll still be able to complete the HPTO. However, if your ban period and/or your required learner permit minimum hold time is greater than 12 months, you’ll need to complete the HPTO again including paying for a new test fee. Test results are only valid for 12 months."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "How can you ensure people are who they say they are?",
+        "Answer": "Applicants who take the HPTO are required to have their own myVicRoads account including username, password, and associated security details (Authentication details). \nAs an additional security step, applicants are also required to correctly answer a set of ‘pre-screening security questions’ online before they can access the test. VicRoads will continue to review the authentication environment and relevant security controls."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "What are the pre-screening security questions?",
+        "Answer": "When you launch the test, you’ll be presented with three randomised pre-screening security questions. These questions are generated from existing system data on your myVicRoads account."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "What happens if I don’t answer the pre-screening security questions correctly?",
+        "Answer": "All three pre-screening security questions must be answered correctly for you to access the test. After two unsuccessful attempts at answering the security questions, you’ll be locked out of the test for one hour before you can register for the test and try again. \n\nUnder the Road Safety Act 1986(External link), it is an offence to obtain or to attempt to obtain a driver licence by any false statement, misrepresentation or other dishonest means, and any driver licence so obtained is invalid. VicRoads reserves the right to refuse to issue a driver licence if it has reason to believe that you have sought to obtain it by any false statement, misrepresentation, or other dishonest means."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "Does the HPTO contain any supporting audio? ",
+        "Answer": "Yes. The HPTO contains supporting audio for both the practice test and actual test. Listening to the audio is an optional feature."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "I clicked on the button to launch the course, but nothing happened. What should I do?",
+        "Answer": "Please ensure you have enabled popup notifications on your browser settings. When you launch the test, it will open in a new browser on your device."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "If I lose internet connection during the test, will I have to start it again?",
+        "Answer": "If you have poor internet connection, need to pause or switch devices during the test, or you close your browser, the 45-minute timer will continue. If you return, you’ll only have the remaining time available to complete the test. Any incomplete test attempts will be automatically considered unsuccessful."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "Can I pause the test and continue another time? ",
+        "Answer": "No. If you need to pause or switch devices during the test, or you close your browser, the 45-minute timer will continue. If you return, you’ll only have the remaining time available to complete the test. Any incomplete test attempts will be automatically considered unsuccessful."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "What payment methods are available to pay the test fee online? ",
+        "Answer": "The test fee can be paid using either Mastercard or Visa. Please note, a card payment fee applies when using VISA or Mastercard."
+    },
+    {
+        "Section": "Hazard Perception Test ",
+        "Question": "Who can I contact if I have any issues with accessing the test?",
+        "Answer": "If you experience any issues accessing the test, you can call the myVicRoads support team on 1300 650 266 Monday-Friday (8.30am-5.30pm) Saturday (8.30am to 12.30pm)."
+    },
+    {
+        "Section": "Demerit points",
+        "Question": "What are demerit points and how do they affect my driving record?",
+        "Answer": "Demerit points are penalty points issued to drivers who commit specific driving offences. These points are recorded against your driving record under the Road Safety Act 1986 and Road Safety (Drivers) Regulations 2019. All drivers start with zero demerit points, and the more offences you commit, the more points you accumulate."
+    },
+    {
+        "Section": "Demerit points",
+        "Question": "How can I check my demerit points?",
+        "Answer": "You can check your demerit points for free online and order a driver history report for a nominal cost."
+    },
+    {
+        "Section": "Demerit points",
+        "Question": "Where can I find more information about demerit points?",
+        "Answer": "For more information about demerit points, including limits, extensions, how to appeal, licence suspension, and incurring points while interstate or on an interstate or overseas licence, visit the Demerit points page on the Transport Victoria website."
+    },
+    {
+        "Section": "Drink or drug driving offence",
+        "Question": "How can I get my licence back after a drink or drug driving offence?",
+        "Answer": "If you’ve lost your licence due to a drink or drug driving offence, you can learn how to get it back by visiting the \"Get your licence back after drink and/or drug driving\" page on the Transport Victoria website."
+    },
+    {
+        "Section": "Drink or drug driving offence",
+        "Question": "What information does Transport Victoria provide about drink and drug driving?",
+        "Answer": "Transport Victoria provides information on alcohol and driving laws, the alcohol interlock program, behaviour change programs, drink and drug driving laws, offences and penalties, and how to get your licence back after a drink driving offence. It also offers forms, fact sheets, and publications related to alcohol, drugs, and driving."
+    },
+    {
+        "Section": "Converting licence",
+        "Question": "Do I need to convert my overseas or interstate licence to a Victorian licence?",
+        "Answer": "Yes, if you have an overseas or interstate licence, you need to convert it to a Victorian licence within six months of residing in Victoria."
+    },
+    {
+        "Section": "Converting licence",
+        "Question": "How can I find out when to convert my licence to a Victorian one?",
+        "Answer": "You can use the online tool provided by Transport Victoria to determine when you need to convert your licence and the type of Victorian licence you will receive."
+    },
+    {
+        "Section": "Converting licence",
+        "Question": "When do I need to convert my interstate driver licence to a Victorian licence?",
+        "Answer": "You need to convert your interstate driver licence to a Victorian driver licence if you will be living in Victoria for 6 months or more. If you will be in Victoria for less than 6 months, you do not need to convert your licence."
+    },
+    {
+        "Section": "Converting licence",
+        "Question": "What do I need to bring to convert my interstate driver licence to a Victorian licence?",
+        "Answer": "To convert your interstate driver licence, you need to make an appointment at a VicRoads Customer Service Centre and bring:\nA completed Licence or learner permit application form\nYour interstate licence\nProof that you live in Victoria\nAny medical reports if you have a medical condition or take prescribed medication that could affect your ability to drive\nA driver licence fee."
+    },
+    {
+        "Section": "Converting licence",
+        "Question": "When do I need to convert my overseas licence to a Victorian licence?",
+        "Answer": "You need to convert your overseas licence to a Victorian licence within 6 months of starting to live in Victoria. This 6-month period starts from the day you first begin living in Victoria, even if you leave and return."
+    },
+    {
+        "Section": "Converting licence",
+        "Question": "What steps are involved in converting my overseas licence to a Victorian licence?",
+        "Answer": "To convert your overseas licence, you will need to:\n\nInform VicRoads of any medical conditions or prescription medications\nMake an appointment at a VicRoads customer service centre\nFill in an application form\nShow your overseas licence and proof of identity\nTake an eyesight test\nPay the applicable fees.\nYou may also need to take Victoria's online and/or driving tests, depending on your age and the country your licence is from."
+    },
+    {
+        "Section": "Converting licence",
+        "Question": "Who needs to take tests to convert their overseas licence?",
+        "Answer": "The need to take tests depends on your age and the country your licence is from.\n\nMost people with licences from recognised countries will not need to do tests.\nPeople aged 25 or older with licences from experienced driver countries typically do not need to do tests.\nPeople with licences from other countries or those under 25 from experienced driver countries will need to take tests."
+    },
+    {
+        "Section": "Converting licence",
+        "Question": "What tests might I need to take to convert my overseas licence?",
+        "Answer": "You might need to take the following tests:\n\nRoad Law Knowledge Test (Learner Permit Test)\nHazard Perception Test\nDrive Test.\nThe Learner Permit Test and Hazard Perception Test can be taken online or in person, while the Drive Test must be done in person."
+    },
+    {
+        "Section": "Converting licence",
+        "Question": "Can I get help in other languages when converting my overseas licence?",
+        "Answer": "Yes, information and help are available in various languages. The in-person Learner Permit Test and Hazard Perception Test are available in languages including Albanian, Arabic, Simplified Chinese, Macedonian, Persian, and more. You may also be able to book an interpreter for tests by visiting a VicRoads Customer Service Centre."
+    },
+    {
+        "Section": "Converting licence",
+        "Question": "Why might I not receive a full Victorian licence when converting my overseas licence?",
+        "Answer": "You might not receive a full Victorian licence if:\n\nYou are between 16 and 18 years old; you will only be eligible for a learner permit.\nYou are between 18 and 21 years old; you will only be eligible for a probationary licence.\nYou are older than 21 but have held your licence for less than 3 years; you will only be eligible for a probationary licence."
+    },
+    {
+        "Section": "Converting licence",
+        "Question": "How long does it take to get a Victorian licence when converting from an overseas licence?",
+        "Answer": "The time it takes to get your Victorian licence depends on the number of steps required. If only licence and identity verification are needed, it can be completed in a single appointment. However, the process will take longer if tests are required. Completing the online tool is the best way to understand your specific process."
+    },
+    {
+        "Section": "Converting licence",
+        "Question": "What costs are involved in converting my overseas licence to a Victorian licence?",
+        "Answer": "You will need to pay for the following:\n\nAny required tests (it’s cheaper to take the Road Knowledge Test and Hazard Perception Test online)\nYour appointment to convert your licence\nThe licence itself.\nYou can find detailed information on fees by visiting the licence fees section on the Transport Victoria website."
+    },
+    {
+        "Section": "Converting licence",
+        "Question": "Can I drive in Victoria with my overseas licence?",
+        "Answer": "You can drive in Victoria with your overseas licence if:\n\nYour licence is current and valid\nYour licence covers the type of vehicle you are driving\nYou have been living in Victoria for less than 6 months in total."
+    },
+    {
+        "Section": "Converting licence",
+        "Question": "When am I not allowed to use my overseas licence to drive in Victoria?",
+        "Answer": "You cannot use your overseas licence to drive in Victoria if:\n\nYou have been disqualified, suspended, or cancelled from driving or obtaining a licence in any country\nYou have failed any driving test in Victoria\nYou have an Australian driver licence or permit from another state or territory\nYou have an Australian driver licence for a different kind of vehicle."
+    },
+    {
+        "Section": "Tow truck licence",
+        "Question": "How can I apply for accreditation to become an accident tow truck driver, service operator, or depot manager in Victoria?",
+        "Answer": "To apply for accreditation as an accident tow truck driver, service operator, or depot manager, visit the Transport Victoria website. Accreditation ensures that drivers attending accident scenes can perform their jobs safely, efficiently, and in accordance with the law. The Department of Transport and Planning handles the accreditation process, and online applications are managed through their system."
+    },
+    {
+        "Section": "Heavy vehicle licence",
+        "Question": "What are the eligibility requirements for obtaining a Victorian heavy vehicle licence?",
+        "Answer": "To be eligible for a Victorian heavy vehicle licence, you must:\n\nHold a current Victorian car licence\nHave held an Australian car licence (including probationary P1 or P2) or a lower heavy vehicle category for the required minimum time, with any suspension or disqualification periods deducted from the minimum time\nPass an eyesight test\nPass a heavy vehicle knowledge test\nPass both on-road and off-road heavy vehicle driving assessments\nComplete a formal training course (required for heavy combination and multi-combination applicants)\nMeet national medical standards for private and commercial vehicle drivers\nNot have an active Fines Victoria sanction during the assessment\nPay the licence variation fee.\n"
+    },
+    {
+        "Section": "Heavy vehicle licence",
+        "Question": "How can I learn to drive a heavy vehicle in Victoria?",
+        "Answer": "To learn to drive a heavy vehicle in Victoria, start by reading the latest edition of the Victorian Bus and Truck Drivers’ Handbook. Then, enrol in professional driving training at an accredited heavy vehicle training and testing provider, a driving school, or through your employer. If you know a licensed heavy vehicle driver, they can also assist with your training as long as they have a current licence for the type of vehicle you are learning to drive. Display 'Driver Under Instruction' plates while learning."
+    },
+    {
+        "Section": "Heavy vehicle licence",
+        "Question": "What assessments do I need to pass to get a heavy vehicle licence?",
+        "Answer": "To obtain a heavy vehicle licence, you need to pass the following assessments:\n\nAn eyesight test\nA heavy vehicle knowledge test\nAn on-road driving assessment\nAn off-road skills assessment.\nFor heavy combination and multi-combination categories, you must also complete a formal training course."
+    },
+    {
+        "Section": "Heavy vehicle licence",
+        "Question": "How do I book a heavy vehicle assessment in Victoria?",
+        "Answer": "Heavy vehicle assessments are conducted by government-approved accredited providers. You will need to pay the assessment fees directly to the provider. When booking, you must inform the provider if you have any disqualifications, suspensions, medical conditions, or if you wear corrective lenses or a hearing aid."
+    },
+    {
+        "Section": "Heavy vehicle licence",
+        "Question": "What happens after I pass my heavy vehicle assessment?",
+        "Answer": "After successfully completing your heavy vehicle assessment, the accredited provider will upload your application and score sheet to the VicRoads partner portal. You will receive a temporary paper licence on the day with your new licence endorsement, and your new licence card will be mailed to you within 7-10 working days. If your existing photo is over 5 years old, you may need a new photo, which can be taken at a VicRoads Customer Service Centre."
+    },
+    {
+        "Section": "Motorcycle licence",
+        "Question": "How can I get my motorcycle learner permit in Victoria?",
+        "Answer": "To get your motorcycle learner permit in Victoria, visit the \"Get your motorcycle Ls\" page on the Transport Victoria website. This page will provide information on eligibility, training courses, and booking your learner permit test."
+    },
+    {
+        "Section": "Motorcycle licence",
+        "Question": "How can I get my motorcycle licence in Victoria?",
+        "Answer": "To obtain your motorcycle licence in Victoria, visit the \"Prepare for your motorcycle licence\" page on the Transport Victoria website. This page includes details on eligibility, training courses, and booking your licence test."
+    },
+    {
+        "Section": "Marine licence",
+        "Question": "Who is eligible to apply for a marine licence in Victoria?",
+        "Answer": "You can apply for a marine licence in Victoria if you are at least 12 years old and meet the basic medical and eyesight tests. To get a Personal Watercraft (PWC) endorsement, you must be at least 16 years old."
+    },
+    {
+        "Section": "Marine licence",
+        "Question": "What tests do I need to take to get a marine licence in Victoria?",
+        "Answer": "To get a marine licence, you need to pass an eyesight test and a marine licence knowledge test with 30 multiple-choice questions (you must get at least 26 correct). If you want to operate a Personal Watercraft (PWC) like a jet-ski, you will also need to pass a PWC endorsement test with 15 questions (you need at least 13 correct)."
+    },
+    {
+        "Section": "Marine licence",
+        "Question": "How can I prepare for the marine licence test?",
+        "Answer": "To prepare, you can download the latest edition of the Boating and Safety Handbook 2023 from the Safe Transport Victoria website and take a marine licence practice test. If you studied the 2020 handbook, make sure to review the changes to marine regulations before taking the test."
+    },
+    {
+        "Section": "Marine licence",
+        "Question": "Where can I take the marine licence tests?",
+        "Answer": "You can take the tests at an accredited training provider with Safe Transport Victoria or by booking an appointment at a VicRoads Customer Service Centre, either in person or by calling 13 11 71. Due to recent updates, VicRoads is currently issuing paper marine licence tests until the online versions are updated."
+    },
+    {
+        "Section": "Marine licence",
+        "Question": "Can I be exempt from taking the marine knowledge test?",
+        "Answer": "You may be exempt from the marine knowledge test if you have:\n\nAn interstate marine licence that hasn’t expired for more than five years\nA valid Certificate of Attainment from an accredited training provider that is not more than 12 months old\nA valid Certificate of Competency (a list of valid certificates is available on the Safe Transport Victoria website)."
+    },
+    {
+        "Section": "Marine licence",
+        "Question": "What is a restricted marine licence, and who can apply for it?",
+        "Answer": "A restricted marine licence is available for individuals aged 12 to 16 years old. It prohibits operating a vessel between sunset and sunrise, towing a person or object, and operating at speeds of 10 knots or more. You cannot get a PWC endorsement until you are 16 years old."
+    },
+    {
+        "Section": "Marine licence",
+        "Question": "How do I convert my interstate marine licence to a Victorian licence?",
+        "Answer": "To convert an interstate marine licence, you must:\n\nHave a current marine licence (or expired less than five years ago)\nEnsure your licence is not suspended, cancelled, or disqualified\nMeet basic medical and eyesight tests\nProvide proof of your interstate licence\nBook an appointment for the conversion and bring your evidence of identity, payment for the licence, your interstate marine licence, and a completed licence or learner permit application form. Any conditions on your interstate licence will apply to your Victorian licence."
+    },
+    {
+        "Section": "Ways to pay your vehicle registration",
+        "Question": "How can I pay my vehicle registration online?",
+        "Answer": "You can pay your registration online using your myVicRoads account or through Service Victoria. Payments can be made using Visa, MasterCard, BPAY, or by direct debit from a cheque or savings account."
+    },
+    {
+        "Section": "Ways to pay your vehicle registration",
+        "Question": "What payment methods are available for paying registration?",
+        "Answer": "You can pay via Visa or MasterCard, BPAY, direct debit, phone, Australia Post, or by mail. EFTPOS and cash are also accepted at Australia Post and VicRoads Customer Service Centres, except for specific locations."
+    },
+    {
+        "Section": "Ways to pay your vehicle registration",
+        "Question": "How do I pay my registration via BPAY?",
+        "Answer": "Use the biller code and account reference number provided on your renewal notice. If you do not have these details, you can find them in your myVicRoads account or on Service Victoria."
+    },
+    {
+        "Section": "Ways to pay your vehicle registration",
+        "Question": "Can I pay my registration over the phone?",
+        "Answer": "Yes, call 1300 086 314 and follow the prompts to pay using a Visa or MasterCard."
+    },
+    {
+        "Section": "Ways to pay your vehicle registration",
+        "Question": "What is short-term registration, and how can I set it up?",
+        "Answer": "Short-term registration allows you to pay for a period of three or six months instead of a full year. It is a pro-rata amount of the annual fee with an additional cost of $2.65 per period. You can change to short-term registration at any time for your next registration period before making payment."
+    },
+    {
+        "Section": "Ways to pay your vehicle registration",
+        "Question": "When will I receive my registration renewal notice?",
+        "Answer": "Renewal notices are sent approximately six weeks before the registration due date. If you have a myVicRoads account and have not opted out of electronic communication, you will receive the notice by email."
+    },
+    {
+        "Section": "Ways to pay your vehicle registration",
+        "Question": "What happens if I have unpaid fines?",
+        "Answer": "If Fines Victoria has applied a suspension to your registration, a renewal notice will not be sent. You will need to contact Fines Victoria to resolve any unpaid fines."
+    },
+    {
+        "Section": "Ways to pay your vehicle registration",
+        "Question": "How is the cost of my registration calculated?",
+        "Answer": "The registration cost in Victoria includes a registration fee and a Transport Accident Charge (TAC). You can use the renewal fee calculator or visit the registration fees page to find out the exact cost."
+    },
+    {
+        "Section": "Ways to pay your vehicle registration",
+        "Question": "Am I eligible for a concession on my vehicle registration?",
+        "Answer": "If your renewal notice indicates that you are eligible for a concession, you can find more information by visiting the Registration concessions page."
+    },
+    {
+        "Section": "Cancel your vehicle registration",
+        "Question": "When should I cancel my vehicle registration?",
+        "Answer": "You should cancel your registration if your vehicle is no longer being driven, sold without number plates, written off in an accident, stolen, or registered in another state."
+    },
+    {
+        "Section": "Cancel your vehicle registration",
+        "Question": "Do I need to cancel my registration if I sold my vehicle with number plates?",
+        "Answer": "No, you don’t need to cancel the registration if you sold the vehicle with the number plates attached. You can transfer the registration to the new owner."
+    },
+    {
+        "Section": "Cancel your vehicle registration",
+        "Question": "How do I cancel my vehicle registration online?",
+        "Answer": "Log in to your myVicRoads account, choose your vehicle, and complete the form. Your registration will be cancelled immediately, and refunds, if applicable, will take up to 10 business days to process."
+    },
+    {
+        "Section": "Cancel your vehicle registration",
+        "Question": "Can I reverse my online registration cancellation?",
+        "Answer": "No, once you submit your cancellation request online, it cannot be reversed."
+    },
+    {
+        "Section": "Cancel your vehicle registration",
+        "Question": "What do I need to provide for a refund when cancelling my registration?",
+        "Answer": "You need to provide your bank account details and a relevant document depending on the reason for cancellation, such as a police report for a stolen vehicle or a photo of destroyed number plates."
+    },
+    {
+        "Section": "Cancel your vehicle registration",
+        "Question": "What happens to my number plates after cancelling my registration?",
+        "Answer": "You should destroy your number plates or return them to a VicRoads Customer Service Centre."
+    },
+    {
+        "Section": "Cancel your vehicle registration",
+        "Question": "Can I keep my number plates after cancelling my registration?",
+        "Answer": "If you want to keep your number plates, you cannot cancel your registration online. You will need to call VicRoads and pay a fee to retain the rights to the plates."
+    },
+    {
+        "Section": "Cancel your vehicle registration",
+        "Question": "How do I cancel my registration in person?",
+        "Answer": "Visit a VicRoads Customer Service Centre with evidence of your identity, the number plates, and any necessary documents like a registration refund form or police report, depending on the reason for cancellation."
+    },
+    {
+        "Section": "Cancel your vehicle registration",
+        "Question": "How long does it take to receive a refund after cancelling registration?",
+        "Answer": "If cancelled online, refunds are processed within 10 business days. If cancelled in person or over the phone, refunds are issued by cheque and take up to 4 weeks."
+    },
+    {
+        "Section": "Cancel your vehicle registration",
+        "Question": "What fees are deducted from my registration refund?",
+        "Answer": "A $20.90 processing fee and 10% of the Transport Accident Commission (TAC) fee will be deducted from your refund. If the refund is less than these fees, no refund will be given."
+    },
+    {
+        "Section": "Cancel your vehicle registration",
+        "Question": "What do I need to cancel someone else's registration?",
+        "Answer": "You need their permission and must complete an Authority to Act as an Agent form. You will also need to follow the in-person cancellation steps and bring the completed form and your ID."
+    },
+    {
+        "Section": "Cancel your vehicle registration",
+        "Question": "What should I do if my number plates are lost or stolen?",
+        "Answer": "For lost plates, you need to provide a statutory declaration. For stolen plates, you must provide a police report."
+    },
+    {
+        "Section": "Cancel your vehicle registration",
+        "Question": "Can I get a refund if I don’t have the number plates?",
+        "Answer": "Yes, you can still get a refund by providing a statutory declaration explaining why you don’t have the number plates or a photo of the destroyed plates."
+    },
+    {
+        "Section": "Cancel your vehicle registration",
+        "Question": "What happens if my online refund fails to process?",
+        "Answer": "If your online refund fails to process, a cheque will be sent instead."
+    },
+    {
+        "Section": "Cancel your vehicle registration",
+        "Question": "How do I cancel registration if the vehicle was written off?",
+        "Answer": "You need to provide a wreckers receipt or an insurance report to cancel the registration."
+    },
+    {
+        "Section": "Cancel your boat or vessel registration",
+        "Question": "How can I cancel my boat or vessel registration online?",
+        "Answer": "You can cancel your boat or vessel registration online by logging into your myVicRoads account, selecting your boat or vessel, and completing the form. The registration will be immediately cancelled and cannot be reversed."
+    },
+    {
+        "Section": "Cancel your boat or vessel registration",
+        "Question": "Can I get a refund when I cancel my boat or vessel registration?",
+        "Answer": "No, refunds are not applicable when cancelling a boat or vessel registration."
+    },
+    {
+        "Section": "Cancel your boat or vessel registration",
+        "Question": "How do I cancel someone else’s boat or vessel registration?",
+        "Answer": "You need their permission and must complete an Authority to Act as an Agent form. Then, visit a VicRoads Customer Service Centre with the form and your own ID."
+    },
+    {
+        "Section": "Set a common expiry date",
+        "Question": "What is a common expiry date for vehicle registrations?",
+        "Answer": "A common expiry date allows the registration expiry dates of two or more vehicles registered in your name (or a company) to fall due on the same day."
+    },
+    {
+        "Section": "Set a common expiry date",
+        "Question": "How do I set a common expiry date for a company or incorporated association?",
+        "Answer": "The first application must be made in writing on company letterhead and include the company name, address, ACN, vehicle registration numbers, and the desired common expiry date. This can be emailed to fleetmanagement@roads.vic.gov.au."
+    },
+    {
+        "Section": "Set a common expiry date",
+        "Question": "How do I set a common expiry date for individuals?",
+        "Answer": "The first application can be made in writing or verbally at a VicRoads Customer Service Centre or over the phone. You will need to provide your full name, address, driver licence number, vehicle registration numbers, desired common expiry date, and signature."
+    },
+    {
+        "Section": "Set a common expiry date",
+        "Question": "Can I set a common expiry date for a vehicle registered to my spouse or domestic partner?",
+        "Answer": "Yes, you can include a vehicle registered to your spouse or domestic partner by providing a marriage certificate (for a spouse) or a statutory declaration from both parties (for a domestic partner), along with their full name, address, driver licence number, and signature."
+    },
+    {
+        "Section": "Set a common expiry date",
+        "Question": "Is there a fee to set a common expiry date?",
+        "Answer": "There is no charge for implementing a common expiry date, but a TAC administration fee will be applied to the pro-rata registration renewal notice."
+    },
+    {
+        "Section": "Set a common expiry date",
+        "Question": "How do I add new vehicles to an existing common expiry date?",
+        "Answer": "To add new vehicles, provide your name, address, driver licence number, vehicle registration number, and the approved common expiry date. You can submit this information by calling 13 11 71 or visiting a VicRoads Customer Service Centre."
+    },
+    {
+        "Section": "Set a common expiry date",
+        "Question": "What happens if the common expiry date is set for 60 days or less?",
+        "Answer": "If the common expiry date is within 60 days, the full TAC charge and full registration fee for the next year must be collected in advance, along with the balance of fees to change the registration to the new expiry date."
+    },
+    {
+        "Section": "Update your company details for vehicle registration",
+        "Question": "How can I update my company’s address for vehicle or vessel registration?",
+        "Answer": "The easiest way to update your company address is through your myVicRoads business account. Simply log in, select \"Business Details\" on the account dashboard, and update your address. You can also update your address by mail or at a VicRoads Customer Service Centre."
+    },
+    {
+        "Section": "Update your company details for vehicle registration",
+        "Question": "What information is required to change a company’s address by mail?",
+        "Answer": "You need to submit written notification on company letterhead that includes the company’s ACN/ARBN, the signature of a director, secretary, or authorised representative, the new address, and a list of affected vehicles or vessels with their registration numbers, make, and model."
+    },
+    {
+        "Section": "Update your company details for vehicle registration",
+        "Question": "How long does it take for a company address change to be processed?",
+        "Answer": "Changes submitted by mail take up to 72 hours to complete, while updates made via myVicRoads or at a Customer Service Centre are processed immediately."
+    },
+    {
+        "Section": "Update your company details for vehicle registration",
+        "Question": "What do I need to change my company name with VicRoads?",
+        "Answer": "To change your company name, you need to submit a Certification of Registration on Change of Name from ASIC and a letter detailing the vehicles or vessels to be updated, including their registration numbers, make, and model. No transfer fee or roadworthiness certificate is required unless the ACN/ARBN has changed."
+    },
+    {
+        "Section": "Update your company details for vehicle registration",
+        "Question": "What happens if the company ACN/ARBN changes along with the company name?",
+        "Answer": "If the company ACN/ARBN changes, the new company will need to be registered with VicRoads as a new client, and any vehicles must be transferred from the old company name to the new one. This requires an application for transfer of registration, payment of the transfer fee, motor vehicle duty, and a Certificate of Roadworthiness."
+    },
+    {
+        "Section": "Certificate of registration",
+        "Question": "Where can I find my certificate of registration?",
+        "Answer": "Your certificate of registration is included in your registration renewal notice, located in the green box on the second page. If you've received the renewal by email, you can also view it by logging into your myVicRoads account under the ‘Notification History’ section."
+    },
+    {
+        "Section": "Certificate of registration",
+        "Question": "Do I need to carry a physical copy of my certificate of registration while driving?",
+        "Answer": "No, you are not required to carry a physical copy of your certificate of registration while driving."
+    },
+    {
+        "Section": "Certificate of registration",
+        "Question": "How can I get a replacement certificate of registration?",
+        "Answer": "If you don't have a myVicRoads account, you can purchase a physical replacement certificate for $20.20. A replacement may be issued for free if there has been a change to your vehicle details, your renewal notice was returned undelivered, or the vehicle was transferred to a new registered operator."
+    },
+    {
+        "Section": "Buying a vehicle",
+        "Question": "What should I do when I buy a vehicle privately in Victoria?",
+        "Answer": "You need to notify VicRoads within 14 days of the sale. In most cases, you can complete the vehicle transfer online in your myVicRoads account after the seller completes their part of the transfer."
+    },
+    {
+        "Section": "Buying a vehicle",
+        "Question": "What types of vehicles can I transfer online through myVicRoads?",
+        "Answer": "You can transfer cars, motorbikes, trucks, heavy vehicles, trailers, and caravans through your myVicRoads account."
+    },
+    {
+        "Section": "Buying a vehicle",
+        "Question": "What if I bought a vehicle from a dealer?",
+        "Answer": "If you bought a new or secondhand vehicle from a dealer, the dealer will handle the registration transfer process for you."
+    },
+    {
+        "Section": "Buying a vehicle",
+        "Question": "What types of transfers require visiting a VicRoads Customer Service Centre?",
+        "Answer": "Transfers involving a trust, company, incorporated body, current/former spouse or domestic partner, a deceased owner, or a minor must be completed at a VicRoads Customer Service Centre."
+    },
+    {
+        "Section": "Buying a vehicle",
+        "Question": "How do I check if the vehicle is registered before buying?",
+        "Answer": "You can perform a registration check to confirm the vehicle’s registration status, VIN, engine number, make, and other details. You should also request proof of registration from the seller, such as showing the vehicle listed in their myVicRoads account."
+    },
+    {
+        "Section": "Buying a vehicle",
+        "Question": "What other checks should I do before buying a vehicle?",
+        "Answer": "You can do a Personal Property Securities Register (PPSR) check to see if the vehicle has been written off, stolen, or has any money owing. You can also obtain a VicRoads Vehicle Report for more detailed information."
+    },
+    {
+        "Section": "Buying a vehicle",
+        "Question": "How do I complete the transfer of a vehicle after purchase?",
+        "Answer": "Once the seller completes their part of the transfer, you will receive an email within 24 hours notifying you that the vehicle has been transferred into your myVicRoads account. You can then finalize the transfer by paying any applicable motor vehicle duty and transfer fee."
+    },
+    {
+        "Section": "Buying a vehicle",
+        "Question": "What if the seller can’t complete the transfer online during the sale?",
+        "Answer": "If the seller cannot complete the transfer online, ask them to fill out the vehicle transfer form. You can use this form to complete the transfer at a VicRoads Customer Service Centre if needed."
+    },
+    {
+        "Section": "Buying a vehicle",
+        "Question": "What should I include in a receipt when buying a vehicle?",
+        "Answer": "The receipt should include the buyer's and seller’s names, addresses, and signatures, the vehicle details, and the date and time of the sale. You can use the VicRoads receipt template for this purpose."
+    },
+    {
+        "Section": "Buying a vehicle",
+        "Question": "What do I need from the seller to complete the transfer?",
+        "Answer": "You will need your Victorian driver licence number or VicRoads customer number, and the seller should provide a certificate of roadworthiness (if required) that is less than 30 days old."
+    },
+    {
+        "Section": "Selling a vehicle",
+        "Question": "What do I need to do when I sell a vehicle in Victoria?",
+        "Answer": "You need to notify VicRoads by submitting a notice of disposal. You can complete this online in your myVicRoads account, or if additional documentation is needed, visit a VicRoads Customer Service Centre."
+    },
+    {
+        "Section": "Selling a vehicle",
+        "Question": "How do I submit a notice of disposal online?",
+        "Answer": "Log in to your myVicRoads account, find the vehicle, and select \"Transfer vehicle\" to complete the notice of disposal. You must do this before the buyer can complete their part of the transfer process."
+    },
+    {
+        "Section": "Selling a vehicle",
+        "Question": "Do I need a certificate of roadworthiness to sell a vehicle?",
+        "Answer": "Yes, in most cases, you need a certificate of roadworthiness from a licensed vehicle tester. The certificate is valid for 30 days, and if the vehicle fails inspection, issues must be fixed within 14 days."
+    },
+    {
+        "Section": "Selling a vehicle",
+        "Question": "What do I need from the buyer to complete the notice of disposal?",
+        "Answer": "The buyer needs to provide their Victorian driver licence number or VicRoads customer number, and their family name (or ACN if a company is buying the vehicle)."
+    },
+    {
+        "Section": "Selling a vehicle",
+        "Question": "What should I do if I have a direct debit for my vehicle’s registration?",
+        "Answer": "If you pay your registration by direct debit, you should cancel the direct debit before transferring the vehicle to the buyer."
+    },
+    {
+        "Section": "Selling a vehicle",
+        "Question": "What should I do if I can't complete the notice of disposal while the buyer is present?",
+        "Answer": "If you can't complete the notice of disposal with the buyer present, fill out the vehicle transfer form with the buyer and take a copy. You can still complete the notice of disposal online later."
+    },
+    {
+        "Section": "Selling a vehicle",
+        "Question": "What should be included in the receipt when selling a vehicle?",
+        "Answer": "The receipt should include your name and address, the buyer’s name, address, and signature, the vehicle’s details, and the date and time of the sale. You can use the VicRoads receipt template for this purpose."
+    },
+    {
+        "Section": "Selling a vehicle",
+        "Question": "What types of vehicle transfers require visiting a VicRoads Customer Service Centre?",
+        "Answer": "Transfers involving a trust, company, spouse or domestic partner, a deceased person, or a minor must be completed at a VicRoads Customer Service Centre."
+    },
+    {
+        "Section": "Buy a vehicle from another state",
+        "Question": "What do I need to do when buying a vehicle from another state and bringing it to Victoria?",
+        "Answer": "You will need to register the vehicle in Victoria. To do this, get a certificate of roadworthiness (if required) and make an appointment at a VicRoads Customer Service Centre. You don’t need to cancel the interstate registration, as it will be automatically cancelled when you register the vehicle in Victoria."
+    },
+    {
+        "Section": "Buy a vehicle from another state",
+        "Question": "What should I do with the interstate number plates when registering the vehicle in Victoria?",
+        "Answer": "At your VicRoads appointment, you can hand in the interstate number plates, and you will be issued a receipt."
+    },
+    {
+        "Section": "Sell a vehicle to someone in another state",
+        "Question": "What should I do if I sell a vehicle to someone in another state?",
+        "Answer": "The easiest way to transfer ownership is to cancel the vehicle's registration in Victoria before the sale. This removes your responsibility for any fines or traffic offenses. You will need to remove the number plates, which can be destroyed or returned to a VicRoads Customer Service Centre."
+    },
+    {
+        "Section": "Sell a vehicle to someone in another state",
+        "Question": "How does the interstate buyer transport the vehicle if I cancel the registration?",
+        "Answer": "The buyer can apply for a Victorian unregistered vehicle permit to transport the vehicle back to their home state, where they can then register it."
+    },
+    {
+        "Section": "Sell a vehicle to someone in another state",
+        "Question": "What should I do if I already sold the vehicle to an interstate buyer without cancelling the registration?",
+        "Answer": "If the buyer registers the vehicle in their home state and your Victorian registration expires by three months, it will automatically be cancelled. However, if you are concerned about fines or notices, complete a vehicle transfer form with both parties' details and visit a VicRoads Customer Service Centre to transfer the vehicle out of your name."
+    },
+    {
+        "Section": "Check vehicle registration",
+        "Question": "What is the Registration check service, and what information does it provide?",
+        "Answer": "The Registration check is a free service used to confirm a vehicle's details and registration status. It provides information such as the vehicle’s VIN/chassis number, engine number, make, colour, body type, year of manufacture, and registration status (current, expired, suspended, or cancelled)."
+    },
+    {
+        "Section": "Check vehicle registration",
+        "Question": "Can I use the Registration check service for all types of vehicles?",
+        "Answer": "The Registration check service is available for cars, motorcycles, trucks, trailers, and caravans recorded on the Victorian Vehicles Register. It does not cover vessel (boat or personal watercraft) registration, nor is it a national check."
+    },
+    {
+        "Section": "Check vehicle registration",
+        "Question": "What is the Personal Property Securities Register (PPSR) service, and what does it check?",
+        "Answer": "The PPSR is a national service that checks for security interests (such as outstanding debts) on a vehicle, as well as details like make, model, registration status, stolen status, and written-off status. Fees apply for this service."
+    },
+    {
+        "Section": "Check vehicle registration",
+        "Question": "How can I access the Personal Property Securities Register (PPSR) service?",
+        "Answer": "You can visit the PPSR website, call 1300 007 777, email enquiries@ppsr.gov.au, fax (08) 7087 4405, or write to the National Service Centre, GPO Box 1944, Adelaide, SA 5001."
+    },
+    {
+        "Section": "Check vehicle registration",
+        "Question": "How can I check if a vehicle is affected by the Takata airbag recall?",
+        "Answer": "You can visit the \"Is my airbag safe?\" website to check if a vehicle has been recalled due to a faulty airbag. For questions, contact an authorised vehicle dealership or the manufacturer."
+    },
+    {
+        "Section": "Check vehicle registration",
+        "Question": "Is the Registration check service available nationwide?",
+        "Answer": "No, the Registration check service is only for vehicles recorded on the Victorian Vehicles Register. It is not a national service."
+    },
+    {
+        "Section": "Check vehicle registration",
+        "Question": "How can I check my vehicle registration online?",
+        "Answer": "You can check your vehicle registration online through the Service Victoria website. The process only takes a minute."
+    },
+    {
+        "Section": "Buy a vehicle report",
+        "Question": "What information does the VicRoads vehicle report provide?",
+        "Answer": "The VicRoads vehicle report includes an odometer discrepancy check, written-off and stolen history, outstanding finance checks, and valuation and safety insights. It also offers exclusive features such as Victorian registration and transfer history, and Victorian roadworthy history."
+    },
+    {
+        "Section": "Buy a vehicle report",
+        "Question": "Why should I buy a VicRoads vehicle report?",
+        "Answer": "The VicRoads vehicle report provides the most comprehensive vehicle history in Victoria, helping you buy with confidence by offering detailed insights into the vehicle's past, including potential issues like odometer discrepancies, outstanding finance, and safety concerns."
+    },
+    {
+        "Section": "Buy, sell or transfer help",
+        "Question": "How can I find my VicRoads customer number?",
+        "Answer": "You can find your VicRoads customer number by logging into your myVicRoads account and looking under the \"Profile and settings\" section."
+    },
+    {
+        "Section": "Buy, sell or transfer help",
+        "Question": "What do I need to do when buying an unregistered vehicle?",
+        "Answer": "You should check the registration and complete a PPSR check before purchasing an unregistered vehicle. After buying, you’ll need to register the vehicle before driving it on public roads. If you need to drive it while it’s unregistered, you’ll need to get an unregistered vehicle permit."
+    },
+    {
+        "Section": "Buy, sell or transfer help",
+        "Question": "What should I do before selling an unregistered vehicle?",
+        "Answer": "You should remove the number plates from the vehicle and return them to a VicRoads Customer Service Centre or destroy them. You do not need to provide the buyer with a certificate of roadworthiness if the vehicle is unregistered."
+    },
+    {
+        "Section": "Buy, sell or transfer help",
+        "Question": "How is a trailer or caravan classified as heavy or light?",
+        "Answer": "Trailers and caravans are classified based on their Aggregate Trailer Mass (ATM). Heavy trailers have an ATM over 4.5 tonnes, while light trailers have an ATM of 4.5 tonnes or fewer."
+    },
+    {
+        "Section": "Buy, sell or transfer help",
+        "Question": "What documents are needed to transfer a vehicle to my current spouse or domestic partner?",
+        "Answer": "You need to provide one of the following: an original or certified marriage certificate, a relationship certificate, or statutory declarations from both spouses or domestic partners declaring the relationship."
+    },
+    {
+        "Section": "Buy, sell or transfer help",
+        "Question": "What documents are needed to transfer a vehicle to my former spouse or domestic partner?",
+        "Answer": "You need to provide one of the following: a Family Court Order, a Mediation Agreement, or statutory declarations from both parties declaring the dissolved relationship and nominating which party the vehicle should be transferred to."
+    },
+    {
+        "Section": "Buy, sell or transfer help",
+        "Question": "How can I keep custom plates after selling or transferring a vehicle?",
+        "Answer": "If you are keeping custom plates, either to transfer them to another vehicle or to retain them without assigning them, notify VicRoads by calling 13 11 71 or visiting a VicRoads Customer Service Centre."
+    },
+    {
+        "Section": "Buy, sell or transfer help",
+        "Question": "What proof is required for a garage address in Victoria?",
+        "Answer": "You will need to provide either a bill, bank statement, rates notice, or other evidence linking your name to the Victorian address, or a signed letter from someone with a Victorian driver licence confirming the vehicle is garaged at their address. The letter must include their licence details, your details, and the vehicle’s details."
+    },
+    {
+        "Section": "Register an interstate vehicle",
+        "Question": "What should I do before registering an interstate vehicle in Victoria?",
+        "Answer": "Before registering your interstate vehicle in Victoria, you should check if it has been reported stolen or written off, and ensure there is no money owing on it by using the Personal Property Security Register (PPSR) service."
+    },
+    {
+        "Section": "Register an interstate vehicle",
+        "Question": "Do I need a Certificate of Roadworthiness (RWC) to register my interstate vehicle in Victoria?",
+        "Answer": "An RWC is required unless the vehicle is already registered in your name interstate, and is being registered in the same name in Victoria, with the interstate registration still current or expired by less than three months. If the vehicle is registered in ACT or Tasmania and the registration has expired, an RWC will be required."
+    },
+    {
+        "Section": "Register an interstate vehicle",
+        "Question": "How do I book an appointment to register my interstate vehicle in Victoria?",
+        "Answer": "You can book an appointment online, by calling 13 11 71 (pay by VISA or Mastercard), or by visiting a VicRoads Customer Service Centre. An appointment fee applies, and there is limited availability."
+    },
+    {
+        "Section": "Register an interstate vehicle",
+        "Question": "What do I need to bring to my VicRoads registration appointment?",
+        "Answer": "You will need to bring the vehicle (if an inspection is required), your interstate plates, a completed vehicle registration form, evidence of identity, a Certificate of Roadworthiness (if required), and proof of a Victorian garage address. Additional documents may be required if the vehicle has been modified or written off."
+    },
+    {
+        "Section": "Register an interstate vehicle",
+        "Question": "Do I need to pay motor vehicle duty when registering my interstate vehicle in Victoria?",
+        "Answer": "No, you do not need to pay motor vehicle duty if you can provide evidence that the vehicle has already been registered in your name in Australia"
+    },
+    {
+        "Section": "Register an interstate vehicle",
+        "Question": "What happens if my vehicle's registration has been cancelled or expired by more than three months?",
+        "Answer": "If the registration is cancelled or expired by more than three months, your vehicle will need to be inspected during your registration appointment."
+    },
+    {
+        "Section": "Register an interstate vehicle",
+        "Question": "What happens if I'm late to my VicRoads registration appointment?",
+        "Answer": "VicRoads will try to accommodate late arrivals, but if you are running late, you may need to reschedule the appointment and pay another fee."
+    },
+    {
+        "Section": "Register an interstate vehicle",
+        "Question": "What payment methods are accepted for registration fees at VicRoads?",
+        "Answer": "VicRoads accepts cash, VISA, Mastercard, EFTPOS, and cheques. However, some Customer Service Centres, such as hub@Exhibition and hub@Sunshine, do not accept cash."
+    },
+    {
+        "Section": "Register a vehicle",
+        "Question": "Who is eligible to register a vehicle in Victoria?",
+        "Answer": "A vehicle can be registered by an individual or a corporation. Individuals must be at least 16 years old to register a light vehicle and at least 18 years old to register a heavy vehicle. Corporations need to provide an Australian Company Number (ACN) or Australian Registered Business Number (ARBN)."
+    },
+    {
+        "Section": "Register a vehicle",
+        "Question": "Do I need a Certificate of Roadworthiness (RWC) to register a vehicle?",
+        "Answer": "Yes, you need an RWC unless your vehicle is brand new, has never been registered in Australia, and is not being registered as a taxi."
+    },
+    {
+        "Section": "Register a vehicle",
+        "Question": "What documents do I need to bring to my registration appointment?",
+        "Answer": "You need to bring the vehicle (if it requires inspection), a completed vehicle registration form, evidence of identity, a Certificate of Roadworthiness (if required), tools and screws for number plates, and evidence of a Victorian garage address."
+    },
+    {
+        "Section": "Register a vehicle",
+        "Question": "Can someone else register the vehicle on my behalf?",
+        "Answer": "Yes, if someone else is registering the vehicle for you, they need to bring an original and signed authority to act as an agent form."
+    },
+    {
+        "Section": "Register a vehicle",
+        "Question": "What if my vehicle is imported, modified, or written-off?",
+        "Answer": "If your vehicle is imported, modified, or has been written off, you’ll need additional documents to register it. Check the VicRoads guidelines for imported vehicles, modifications, or written-off vehicles."
+    },
+    {
+        "Section": "Register a vehicle",
+        "Question": "How much does it cost to register a vehicle in Victoria?",
+        "Answer": "The registration cost includes a standard registration charge, a number plate fee, the Transport Accident Commission charge, and a motor vehicle duty fee. Use the fee calculator on the VicRoads website for exact costs."
+    },
+    {
+        "Section": "Register a vehicle",
+        "Question": "Can I use previous number plates on my vehicle?",
+        "Answer": "Yes, you can re-use general issue plates on the same vehicle, but a fee applies. If you are using custom plates, let VicRoads know at the appointment. A plate assignment fee will apply if the custom plates have been on another vehicle before."
+    },
+    {
+        "Section": "Register a vehicle",
+        "Question": "Do I need to register a vehicle purchased from a dealership?",
+        "Answer": "No, if you purchased the vehicle from a dealership, they will handle the registration process on your behalf."
+    },
+    {
+        "Section": "Register a vehicle",
+        "Question": "What vehicles require additional steps for registration?",
+        "Answer": "Additional steps may be required for registering motorcycles, trailers, caravans, vessels, imported vehicles, machinery, construction vehicles, or vehicles not compliant with Australian standards."
+    },
+    {
+        "Section": "Register a vehicle",
+        "Question": "What is the process to register a vehicle?",
+        "Answer": "To register a vehicle in Victoria, you first need to check your eligibility: individuals must be at least 16 years old to register a light vehicle and 18 years old for a heavy vehicle, while companies and incorporated associations must provide an ACN or ARBN. Begin by obtaining a Certificate of Roadworthiness (RWC), unless the vehicle is brand new and has never been registered in Australia. Next, book a registration appointment with VicRoads, ensuring you bring the vehicle (if an inspection is required), a completed vehicle registration form, proof of identity, an RWC (if applicable), and evidence of your Victorian garage address. If someone else is handling the registration, they will need an original and signed Authority to Act as an Agent form. During the appointment, you will also need tools to attach your number plates and payment for registration fees, which include the standard registration charge, number plate fee, Transport Accident Commission charge, and motor vehicle duty (if applicable). If you are using previous number plates or custom plates, additional fees may apply."
+    },
+    {
+        "Section": "Register a vehicle",
+        "Question": "What happens if I have a Fines Victoria sanction?",
+        "Answer": "If you are subject to a Fines Victoria sanction or have one pending, you may not be able to proceed with your registration appointment, and your appointment fees will be forfeited. Contact Fines Victoria for more information."
+    },
+    {
+        "Section": "Register a motorcycle",
+        "Question": "Who is eligible to register a motorcycle in Victoria?",
+        "Answer": "Individuals must be at least 18 years old to register a motorcycle. Corporations, including companies or incorporated associations, can also register a motorcycle. However, motorcycles cannot be registered in a business name, trading name, or the name of an unincorporated group."
+    },
+    {
+        "Section": "Register a motorcycle",
+        "Question": "What are the conditions for recreational motorcycle registration?",
+        "Answer": "Recreational motorcycles are only allowed to operate in defined areas, outside \"built-up areas\" with speed limits under 100 km/h, or in areas used for learner permit training. They cannot carry a load or passengers, and riders must wear an approved protective helmet."
+    },
+    {
+        "Section": "Register a motorcycle",
+        "Question": "What are the minimum construction requirements for recreational or farm motorcycles?",
+        "Answer": "All recreational and farm motorcycles must have a rear vision mirror on the right-hand side, brakes on both wheels, a headlamp, rear lamps (red and brake), a white number plate lamp, a silencing device (94 dBA or less), a horn, and a chain guard. Lighting must be powered by a continuous system, such as an alternator or magneto."
+    },
+    {
+        "Section": "Register a motorcycle",
+        "Question": "What documents do I need to bring to register my motorcycle?",
+        "Answer": "You need to bring the motorcycle (if inspection is required), a completed vehicle registration form, proof of identity, a Certificate of Roadworthiness (if required), proof of Victorian garage address, and tools to affix number plates."
+    },
+    {
+        "Section": "Register a motorcycle",
+        "Question": "Do I need a Certificate of Roadworthiness to register a motorcycle?",
+        "Answer": "A Certificate of Roadworthiness is required for standard motorcycle registration unless the motorcycle is brand new and has never been registered. Farm and recreational motorcycles do not need a Certificate of Roadworthiness unless converting a recreational motorcycle to standard registration."
+    },
+    {
+        "Section": "Register a motorcycle",
+        "Question": "What if I need to register a farm motorcycle?",
+        "Answer": "Farm motorcycles can be registered for primary production use and must stay within a 25 km radius of the farm. The motorcycle must meet construction and safety standards, and only primary producers are eligible for this type of registration."
+    },
+    {
+        "Section": "Register a motorcycle",
+        "Question": "How can I make an appointment to register my motorcycle?",
+        "Answer": "You can book an appointment online, by calling 13 11 71, or by visiting a VicRoads Customer Service Centre. An appointment and inspection fee must be paid at the time of booking."
+    },
+    {
+        "Section": "Register a motorcycle",
+        "Question": "Can someone else register my motorcycle for me?",
+        "Answer": "Yes, someone else can register your motorcycle on your behalf, but they must provide an original and signed Authority to Act as an Agent form."
+    },
+    {
+        "Section": "Register a motorcycle",
+        "Question": "What if my motorcycle has been modified or written off?",
+        "Answer": "If your motorcycle has been modified or previously written off, additional documentation may be required to register it. Check the VicRoads requirements for vehicle modifications and defects."
+    },
+    {
+        "Section": "Register a motorcycle",
+        "Question": "What should I do if I purchased a motorcycle from a dealership?",
+        "Answer": "If you purchased the motorcycle from a dealership, they may handle the registration process for you at the time of purchase."
+    },
+    {
+        "Section": "Register a motorcycle",
+        "Question": "What is the process to register a motorcycle?",
+        "Answer": "To register a motorcycle in Victoria, you need to first check your eligibility—individuals must be at least 18 years old, and corporations can register using an ACN or ARBN. Next, you may need to obtain a Certificate of Roadworthiness (RWC) unless the motorcycle is brand new or is a farm or recreational bike. Then, book an appointment with VicRoads either online, by phone, or in-person at a Customer Service Centre, and pay the appointment and inspection fee. On the day of the appointment, bring the motorcycle (if inspection is needed), a completed vehicle registration form, proof of identity, an RWC (if required), proof of your Victorian garage address, and any necessary tools to attach the number plates. If someone else is handling the registration for you, they must provide an Authority to Act as an Agent form. During the appointment, the motorcycle will be inspected (if required), and you will pay the registration fees, which include the standard registration charge, number plate fee, Transport Accident Commission charge, and motor vehicle duty (if applicable). After that, your motorcycle will be registered for use in Victoria."
+    }
+]
