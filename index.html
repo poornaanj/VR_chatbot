@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot Interface</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #e3f2fd; /* Light blue background */
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff; /* White background for container */
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            display: flex;
+            flex-direction: column;
+            height: 80vh; /* Set the height of the container */
+        }
+        h1 {
+            text-align: center;
+            color: #1976d2; /* Darker blue for header */
+            margin-bottom: 20px;
+        }
+        #chatbox {
+            flex: 1; /* Take available space */
+            border: 1px solid #ccc;
+            padding: 10px;
+            overflow-y: auto; /* Scrollable */
+            background-color: #fafafa; /* Light gray background for chatbox */
+            margin-bottom: 20px;
+            border-radius: 5px;
+            display: flex;
+            flex-direction: column; /* Maintain column direction */
+        }
+        .user-message {
+            text-align: right;
+            color: #fff;
+            background-color: #007BFF; /* Blue background for user messages */
+            padding: 8px;
+            border-radius: 5px;
+            margin: 5px 0;
+            display: inline-block;
+            max-width: 80%;
+            align-self: flex-end; /* Align to the right */
+        }
+        .bot-message {
+            text-align: left;
+            color: #333;
+            background-color: #e0f7fa; /* Light cyan background for bot messages */
+            padding: 8px;
+            border-radius: 5px;
+            margin: 5px 0;
+            display: inline-block;
+            max-width: 80%;
+        }
+        .loading {
+            text-align: left;
+            color: #999;
+            margin: 5px 0;
+        }
+        #inputForm {
+            display: flex;
+            margin-top: auto; /* Push the input form to the bottom */
+        }
+        #userInput {
+            flex: 1;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        #submitBtn {
+            padding: 10px 20px;
+            border: none;
+            background-color: #007BFF; /* Blue button */
+            color: white;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-left: 10px;
+        }
+        #submitBtn:hover {
+            background-color: #0056b3; /* Darker blue on hover */
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Ask the Chatbot</h1>
+        <div id="chatbox"></div>
+        <form id="inputForm">
+            <input type="text" id="userInput" placeholder="Type your question here..." required>
+            <button type="submit" id="submitBtn">Send</button>
+        </form>
+    </div>
+
+    <script>
+        const form = document.getElementById('inputForm');
+        const chatbox = document.getElementById('chatbox');
+
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+
+            const userInput = document.getElementById('userInput').value;
+            appendMessage(`You: ${userInput}`, 'user');
+            document.getElementById('userInput').value = '';
+
+            // Show loading indicator
+            const loadingMessage = document.createElement('div');
+            loadingMessage.className = 'loading';
+            loadingMessage.textContent = 'Bot is typing...';
+            chatbox.appendChild(loadingMessage);
+            chatbox.scrollTop = chatbox.scrollHeight; // Scroll to the bottom
+
+            const response = await fetch('/chat', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ question: userInput })
+            });
+
+            const data = await response.json();
+            chatbox.removeChild(loadingMessage); // Remove loading indicator
+            appendMessage(`Bot: ${data.answer}`, 'bot');
+        });
+
+        function appendMessage(message, type) {
+            const messageDiv = document.createElement('div');
+            messageDiv.textContent = message;
+            messageDiv.className = type === 'user' ? 'user-message' : 'bot-message'; // Apply corresponding class
+            chatbox.appendChild(messageDiv); // Append to chatbox to show the latest message at the bottom
+            chatbox.scrollTop = chatbox.scrollHeight; // Scroll to the bottom
+        }
+    </script>
+
+</body>
+</html>
