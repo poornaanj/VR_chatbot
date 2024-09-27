@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VicRoads Chatbot</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f3f4f6;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Main container for the chatbot */
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-direction: column;
+            height: 80vh;
+        }
+
+        /* Header for the chatbot */
+        h1 {
+            text-align: center;
+            color: #1565C0;
+            margin-bottom: 20px;
+            font-weight: 600;
+            font-size: 1.8rem;
+        }
+
+        /* Chatbox styling */
+        #chatbox {
+            flex: 1;
+            border: 1px solid #ddd;
+            padding: 15px;
+            background-color: #f9f9f9;
+            overflow-y: auto;
+            border-radius: 10px;
+            box-shadow: inset 0px 4px 8px rgba(0, 0, 0, 0.05);
+            margin-bottom: 20px;
+        }
+
+        /* User and bot messages styling */
+        .user-message, .bot-message {
+            max-width: 75%;
+            padding: 12px;
+            border-radius: 10px;
+            margin: 10px 0;
+            display: inline-block;
+            word-break: break-word;
+        }
+
+        .user-message {
+            float:right;
+            clear:both;
+            align-self: flex-end;
+            text-align: right;
+            background: linear-gradient(135deg, #42A5F5, #1E88E5);
+            color: white;
+            box-shadow: 0px 4px 8px rgba(66, 165, 245, 0.3);
+        }
+
+        .bot-message {
+            float: left;
+            clear: both;
+            align-self: flex-start;
+            text-align: left;
+            background: #e3f2fd;
+            color: #333;
+            box-shadow: 0px 4px 8px rgba(227, 242, 253, 0.3);
+        }
+
+        /* Form for input */
+        #inputForm {
+            display: flex;
+        }
+
+        #userInput {
+            flex: 1;
+            padding: 12px;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            font-size: 1rem;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+        }
+
+        #submitBtn {
+            padding: 12px 20px;
+            background-color: #42A5F5;
+            border: none;
+            color: white;
+            border-radius: 10px;
+            font-size: 1rem;
+            margin-left: 10px;
+            cursor: pointer;
+            box-shadow: 0px 4px 12px rgba(66, 165, 245, 0.4);
+            transition: background-color 0.3s ease;
+        }
+
+        #submitBtn:hover {
+            background-color: #1E88E5;
+        }
+
+        /* Scroll styling for chatbox */
+        #chatbox::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        #chatbox::-webkit-scrollbar-thumb {
+            background-color: #bbbbbb;
+            border-radius: 10px;
+        }
+
+        #chatbox::-webkit-scrollbar-thumb:hover {
+            background-color: #888;
+        }
+
+        #chatbox::-webkit-scrollbar-track {
+            background-color: #f1f1f1;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>VicRoads Chatbot</h1>
+        <div id="chatbox"></div>
+        <form id="inputForm">
+            <input type="text" id="userInput" placeholder="Type your question here..." required>
+            <button type="submit" id="submitBtn">Send</button>
+        </form>
+    </div>
+
+    <script>
+        const form = document.getElementById('inputForm');
+        const chatbox = document.getElementById('chatbox');
+
+        // Function to append messages to chatbox
+        function appendMessage(message, type) {
+            const messageDiv = document.createElement('div');
+            messageDiv.textContent = message;
+            messageDiv.className = type === 'user' ? 'user-message' : 'bot-message';
+            chatbox.appendChild(messageDiv);
+            chatbox.scrollTop = chatbox.scrollHeight; // Scroll to the bottom
+        }
+
+        // Send initial request to get welcome message
+        window.onload = async () => {
+            const response = await fetch('/welcome');
+            const data = await response.json();
+            appendMessage(`Bot: ${data.answer}`, 'bot');
+        };
+
+        // Handle user input and send message
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+
+            const userInput = document.getElementById('userInput').value;
+            appendMessage(`You: ${userInput}`, 'user');
+            document.getElementById('userInput').value = '';
+
+            // Show loading indicator
+            const loadingMessage = document.createElement('div');
+            loadingMessage.className = 'bot-message'; // Use the same class as bot messages
+            loadingMessage.textContent = 'Bot is typing...';
+            chatbox.appendChild(loadingMessage);
+            chatbox.scrollTop = chatbox.scrollHeight;
+
+            const response = await fetch('/chat', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ question: userInput })
+            });
+
+            const data = await response.json();
+            chatbox.removeChild(loadingMessage); // Remove loading indicator
+            appendMessage(`Bot: ${data.answer}`, 'bot');
+        });
+    </script>
+
+</body>
+</html>
