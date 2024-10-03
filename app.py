@@ -44,39 +44,42 @@ def get_response(query):
     # Retrieve relevant documents from FAISS index
     k = 5
     distances, indices = faiss_index.search(query_embedding, k)
-    retrieved_documents = [f"Q: {raw_documents[i]['Question']} A: {raw_documents[i]['Answer']}" for i in indices[0]]
-
+    retrieved_documents = [f"{raw_documents[i]['Question']},{raw_documents[i]['Answer']}" for i in indices[0]]
+    
     # If no relevant documents are found
     if not retrieved_documents:
         return "Sorry, I couldn't find any relevant information in the documents."
 
     # Define system and user prompts
-    system_prompt = f"""You are an assistant specialized in providing accurate information about road licenses in Victoria, Australia. Use the context provided to answer the user's question factually and clearly.
-    Documents: {retrieved_documents}
-    """
-    user_prompt = f"""User Question: {query}
-    Based on the above documents, please provide a brief answer, ensuring you include all relevant information. Do not say anything that was not asked.
-    If the question has no relevance to the documents, just say 'I don't know.'
+ 
 
+   
+     # Ensure system and user prompts are defined properly
+    system_prompt = """You are an assistant specialized in providing accurate information about road licenses in Victoria, Australia. Use the context provided to answer the user's question factually and clearly. 
+    Documents: {context}
+    """
+
+    user_prompt = """User Question: {question}
+    Based on the above documents, please provide a answer, ensuring you include all relevant information. Do not say anything extra.
+    If the question has no relevance to the documents, just say 'I don't know.'
     Answer:"""
 
     # Call the LLM API
     response = completion(
         model="ollama/llama3.2:latest",
         messages=[
-            {"content": system_prompt, "role": "system"},
-            {"content": user_prompt, "role": "user"}
+            {"content": system_prompt.format(context=retrieved_documents), "role": "system"},
+            {"content": user_prompt.format(question=query), "role": "user"}
         ],
         api_base="http://localhost:11434",
-        stream=True  # Stream response
+        stream=True
     )
     
-    # Collect the response text from the streamed chunks
-    response_text = ''.join([chunk.choices[0].delta.content for chunk in response if chunk.choices[0].delta.content])
-    
-    # Clean up extra spaces that cause word-breaking
-    response_text = response_text.replace("  ", " ")
-    
+    response_text = ''  # Initialize an empty string to collect the chunks
+    for chunk in response:
+        if chunk.choices[0].delta.content:  # Check if there's content in the chunk
+            response_text += chunk.choices[0].delta.content  # Append the content to the response_text
+
     return response_text.strip()
 
 if __name__ == '__main__':
